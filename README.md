@@ -27,3 +27,4 @@ BUG_REPORT_URL="http://bugs.launchpad.net/ubuntu/"
   cd /app/tmp; curl ftp://ftp.foolabs.com/pub/xpdf/xpdf-3.04.tar.gz -o xpdf.tar.gz && tar zxvf xpdf.tar.gz && cd xpdf-3.04 && ./configure && make && mv xpdf/pdftotext /app/bin
 
  
+hello
